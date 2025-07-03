@@ -48,9 +48,9 @@ def colourImage(image, fac):
             char = substitution[ind]
             x, y = j * char_w, i * char_h + char_h
             print(tuple(map(int,image_small[i,j])))
-            oc.putText(asciiImage, char, (x, y), oc.FONT_HERSHEY_PLAIN, 1,tuple(map(int,image_small[i,j])),1)
+            oc.putText(asciiImage, char, (x, y), oc.FONT_HERSHEY_PLAIN, 0.5,tuple(map(int,image_small[i,j])),1)
     imageWindow(asciiImage, image, image_small)
 
 
-image = oc.imread('img_2.png')
-colourImage(image, 0.1)
+image = oc.imread('img_1.png')
+colourImage(image, 0.5)
