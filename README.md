@@ -11,8 +11,7 @@ Image from [Brooke Balentine](https://unsplash.com/@brookebalentine)
 Example 2:
 | orignal | Coloured ASCII | Binary ASCII |
 |---------|----------------|--------------|
-![flower](https://github.com/user-attachments/assets/cb357362-62b5-4573-9eeb-c992744bd7c5) | ![flower_asciiArt_colour](https://github.com/user-attachments/assets/a1e25da6-5e9c-4166-9f67-e1ecf55bb397) | ![flower_asciiArt_binary](https://github.com/user-attachments/assets/bfde0b74-3f6f-4ee2-961f-233390c17723)
- |
+![flower](https://github.com/user-attachments/assets/cb357362-62b5-4573-9eeb-c992744bd7c5) | ![flower_asciiArt_colour](https://github.com/user-attachments/assets/a1e25da6-5e9c-4166-9f67-e1ecf55bb397) | ![flower_asciiArt_binary](https://github.com/user-attachments/assets/bfde0b74-3f6f-4ee2-961f-233390c17723) |
 Image from [Gian D](https://unsplash.com/@gn)
 
 
