@@ -1,0 +1,24 @@
+# ASCII Image Generator
+
+This project converts any image into ASCII art and displays it visually using OpenCV.
+
+## Features
+- for colour ascii art : use colourImage(<image_array>, <quality_factor>)
+- for binary ascii art : use monoChrome(<image_array>, <quality_factor>)
+- Converts images to grayscale
+- Resizes image to fit ASCII proportions
+- Maps brightness to ASCII characters
+- Renders ASCII art on a graphical window using OpenCV
+
+
+## Recommendation
+- Adjust the fac value till you find a good value
+  
+## Requirements
+- Python 3.x  
+- NumPy  
+- OpenCV (`cv2`)
+
+## Installation
+```bash
+pip install numpy opencv-python
